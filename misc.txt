@@ -1,3 +1,4 @@
+Background:
 This is an Git practice session
 Objective: Ignoring files
 Test file: credentials.txt
